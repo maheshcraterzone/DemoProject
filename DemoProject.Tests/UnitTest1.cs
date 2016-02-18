@@ -10,6 +10,6 @@ namespace DemoProject.Tests
         public void TestMethod1()
         {
             //Testing
-        }
+        
     }
 }
