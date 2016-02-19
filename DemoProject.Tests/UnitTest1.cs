@@ -9,7 +9,7 @@ namespace DemoProject.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("", "");
+            Assert.AreEqual("m", "m");
         }
     }
 }
